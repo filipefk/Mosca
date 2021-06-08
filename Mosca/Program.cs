@@ -27,7 +27,7 @@ namespace Mosca
                         _LihaDeComando = "";
                         for (int i = 1; i < args.Length; i++)
                         {
-                            _LihaDeComando = _LihaDeComando = _LihaDeComando + " " + args[i].Trim().ToUpper();
+                            _LihaDeComando = _LihaDeComando + " " + args[i].Trim().ToUpper();
                         }
                         Application.Run(new frmDisparaMoscas(_Quant, _LihaDeComando));
                     }
