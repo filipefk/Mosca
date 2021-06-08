@@ -1,4 +1,7 @@
 # Mosca
+O arquivo Mosca.eze na raiz é o executável disfarçado. Se não quiser baixar os fontes e compilar, basta pegar o Mosca.eze, baixar e renomear para Mosca.exe
+
+## Parâmetros
 Se executar sem parâmetros vai disparar um número aleatório de moscas
 O primeiro parâmetro é a quantidade de moscas
 Os parâmetros seguintes podem ser:
